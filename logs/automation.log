@@ -1,0 +1,69 @@
+2025-07-17 11:46:11 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-17 11:46:12 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-07-17 11:46:13 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-07-17 11:46:13 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-17 11:46:16 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-07-17 11:46:17 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-07-17 11:46:17 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-17 11:46:28 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-17 11:46:28 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-17 11:46:29 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-17 11:46:29 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-07-17 11:46:29 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-07-17 11:46:31 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-17 11:46:43 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 11:46:47 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 11:46:50 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 11:46:53 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 11:46:56 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 11:47:00 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 11:47:03 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 11:47:15 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 11:47:18 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 11:47:22 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 12:01:11 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-17 12:01:11 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-07-17 12:01:12 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-07-17 12:01:12 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-17 12:01:14 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-07-17 12:01:14 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-07-17 12:01:14 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-17 12:01:19 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-17 12:01:20 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-17 12:01:20 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-17 12:01:20 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-07-17 12:01:22 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-07-17 12:01:22 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-17 12:01:29 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 12:01:32 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 12:01:35 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 12:01:38 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 12:01:41 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 12:01:44 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 12:01:47 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 12:02:00 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 12:02:03 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 12:02:05 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 17:10:01 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-07-17 17:10:01 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2025-07-17 17:10:02 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2025-07-17 17:10:02 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2025-07-17 17:10:07 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2025-07-17 17:10:09 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2025-07-17 17:10:09 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2025-07-17 17:10:25 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-07-17 17:10:25 INFO  TC002_LoginTest:24 - clicked on myaccount link on the home page..
+2025-07-17 17:10:27 INFO  TC002_LoginTest:26 - clicked on login link under myaccount..
+2025-07-17 17:10:27 INFO  TC002_LoginTest:30 - Entering valid email and password..
+2025-07-17 17:10:28 INFO  TC002_LoginTest:34 - clicked on ligin button..
+2025-07-17 17:10:28 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2025-07-17 17:10:36 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 17:10:39 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 17:10:42 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 17:10:45 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 17:10:48 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 17:10:51 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 17:10:54 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 17:11:06 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
+2025-07-17 17:11:09 INFO  TC003_LoginDDT:27 - **** Starting TC003_LoginDDT *****
+2025-07-17 17:11:13 INFO  TC003_LoginDDT:78 - **** Finished TC003_LoginDDT *****
